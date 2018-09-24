@@ -1,14 +1,12 @@
-[1] David Moreno Ignacio
-[2] The purpose of my game is the user controlling the ball and attempting to score a goal. 
-    In order for the player to score a goal the player must roll the ball into the goal itself. 
-    However, there is a goalie in the game and he oscillates between the two goal posts.
-    The goalies acceleration slowly increases, so as the player be careful and try not to take too much time.
-    There is a score board, the goalie hopes to reach 5 saves before the player can achieve 5 goals. 
-[3] In order to play the game the player uses the arrow keys to control the movement of the ball.
-[4] In this project I used a lot of the lessons taught by the roll a ball tutorial.
-    As well as familiarize myself with the Unity program itself.
-[5] My own contributions to this game was the entire graphics of the scene. 
-    I created the structures, and also wrote up the code to create the movement.    
-[6] From this assignment I learned how to use the Unity software, and familiraize myself with the basic structures and concepts.
-    I also learned more about coding in C#. Before this assignment I had no experience with it. 
-    I feel more comfortable with it but know I still have all to learn about it.
+[1] John Patek
+[2] The concept of this game is to control the player in an effort to score a goal. 
+    In order for the player to score, they must roll the ball into the goal. 
+    Opposite the player, there is a goalie in the game and he moves between the two goal posts.
+    The goalie's acceleration slowly increases, so the player must be careful and hurry.
+    There is a scoreboard, the goalie hopes to reach 5 saves before the player can achieve 5 goals. 
+[3] The player uses the arrow keys to control the movement of the ball.
+[4] In this project I used some of the lessons taught in the roll a ball tutorial,
+    and also familiarized myself with the Unity program.
+[5] My own contribution to this game was the entire graphics of the scene. 
+    I created the structures, and wrote the code to control the movement.    
+[6] From this assignment I learned how to use the Unity software, and familiraize myself with the  basic structures and concepts.
